@@ -2,15 +2,15 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "94740152669"
-global.ownername = "🌹⃟⃢👑 ༒Ishiya Botz🌹"
+global.ownernomer = "94740027418"
+global.ownername ="CYBER-PASIYA-BUG-BOT"
 global.ytname = "Ishiya modz"
 global.socialm = "GitHub: @isithaanusara"
 global.location = "America/Port-au-Prince"
 
-global.ownernumber = '94740152669'  //creator number
+global.ownernumber = '94740027418'  //creator number
 global.ownername = 'Ishiya Botz' //owner name
-global.botname = 'KRYPT0_KNIGHT_BUG - MD' //name of the bot
+global.botname = 'CYBER-PASIYA-BUG-BOT' //name of the bot
 
 //sticker details
 global.packname = '🗾'
@@ -21,7 +21,7 @@ global.themeemoji = '🗾'
 global.wm = "𝙎-𝙏𝞢𝞜"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vb0wb9aHbFV1TCbq372Q'
+global.link = 'https://whatsapp.com/channel/0029Vargs9aGOj9teLmc6r0w'
 
 //custom prefix
 global.prefa = ['']
